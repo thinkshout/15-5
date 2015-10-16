@@ -10,7 +10,7 @@ var dependencies = [
   'ui.bootstrap'];
 
 angular.module('fivefifteenApp', dependencies)
-  .config([    '$routeProvider', 'localStorageServiceProvider',
+  .config(['$routeProvider', 'localStorageServiceProvider',
       function ($routeProvider,   localStorageServiceProvider) {
     localStorageServiceProvider.setPrefix('fiveFifteen');
 
