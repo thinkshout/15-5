@@ -4,7 +4,6 @@ var dependencies = [
   'ngRoute',
   'fivefifteenApp.directives',
   'fivefifteenApp.filters',
-  'firebase',
   'LocalStorageModule',
   'ngDebounce',
   'ngAnimate',
