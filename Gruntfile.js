@@ -30,9 +30,9 @@ module.exports = function (grunt) {
     'gh-pages': {
       options: {
         base: 'dist',
-        add: true
+        add: false
       },
-      src: ['**']
+      src: ['**/*']
     },
     yeoman: yeomanConfig,
     watch: {
@@ -269,7 +269,7 @@ module.exports = function (grunt) {
         files: [{
           expand: true,
           cwd: '<%= yeoman.app %>',
-          src: ['*.html', 'views/*.html'],
+          src: ['*.html', 'views/*.html', '*.yml', 'CNAME'],
           dest: '<%= yeoman.dist %>'
         }]
       }
