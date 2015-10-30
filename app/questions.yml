@@ -11,11 +11,11 @@ feedback:
   text: "*Time to provide some feedback to your manager. Again, be honest. Everybody can improve what they do. Honesty is the start.*"
   title: "## Feedback for Your Manager"
 learned:
-  path: "learned"
-  shortTitle: "Learned"
+  path: "learning-goals"
+  shortTitle: "Learning/Goals"
   stepNumber: 1
-  text: "*Keep in mind both professional and personal things here. What did you learn this week that you didn't know before? What did you learn from a co-worker? Here are some other topics to consider...Learned a new project methodology, deepened a core skill, started a Coursera course or other things related to your job role. You might also focus on personal skills like time management, peer mentorship, social skills, or company culture perspectives.*"
-  title: "## Things I’ve Learned Recently"
+  text: "*Keep in mind both professional and personal things here. What did you learn this week that you didn't know before? What did you learn from a co-worker? What progress did you make towards your goals? Here are some other topics to consider...Learned a new project methodology, deepened a core skill, started a Coursera course or other things related to your job role. You might also focus on personal skills like time management, peer mentorship, social skills, or company culture perspectives.*"
+  title: "## Learning and Goals"
 objectives:
   path: "objectives"
   shortTitle: "Choose"
@@ -26,11 +26,11 @@ projects:
   path: "projects"
   shortTitle: "Projects"
   stepNumber: 3
-  text: "*This could be a status update on a particular project, or topics and concepts that come up in the context of projects, but live beyond the context of a specific client. If you need a spark, here are some to ignite your flow, but we don't expect you to answer them all: *\n\n- *Are your projects on time?*\n- *How is your workload?*\n- *How goes your collaboration with peers?*\n- *Are there unexpected elements to any of your projects?*\n- *What consumed the majority of your time this week?*\n- *What is unusual?*\n"
+  text: "*If you need a spark, here are some to ignite your flow, but we don't expect you to answer them all: *\n\n- *Are your projects on time?*\n- *Did you meet your task deadlines?*\n- *How is your workload?*\n- *How goes your collaboration with peers?*\n- *Are there unexpected elements to any of your projects?*\n- *What consumed the majority of your time this week?*\n- *What is unusual?*\n"
   title: "## Project Updates/Reviews"
 success:
   path: "success"
   shortTitle: "Successes"
   stepNumber: 0
-  text: "*What do you feel good about from the week? What made your week worth having? Note even the small successes. If you're so inclined, it's also very good Karma to mention the team members that helped.*"
+  text: "*What do you feel good about from the week? What made your week worth having? Note even the small successes. Shout-outs to other team members that helped this week are great.*"
   title: "## Recent Successes"
