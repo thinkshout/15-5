@@ -24,7 +24,7 @@ angular.module('fivefifteenApp')
       for (stepName in this.steps) {
         step = this.steps[stepName];
         preview += step.title + "\n\n";
-        preview += step.text + "\n\n";
+        // preview += step.text + "\n\n";
         if (angular.isDefined(this.data[step.path])) {
           preview += this.data[step.path] + "\n\n";
         }
@@ -137,7 +137,7 @@ angular.module('fivefifteenApp')
                     function ($scope,   $location,   StepsFactory) {
 
     // Site Tagline
-    $scope.tagLine = "5 minutes to read, 15 minutes to write";
+    $scope.tagLine = "15 minutes to write, 5 minutes to read";
 
     // App is in progress when you are not on the homepage.
     $scope.inProgress = function(){
