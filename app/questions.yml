@@ -10,11 +10,11 @@ feedback:
   stepNumber: 5
   text: "*Time to provide some feedback to your manager. Again, be honest. Everybody can improve what they do. Honesty is the start.*"
   title: "## Feedback for Your Manager"
-learned:
-  path: "learning-goals"
+learning:
+  path: "learning"
   shortTitle: "Learning/Goals"
   stepNumber: 1
-  text: "*Keep in mind both professional and personal things here. What did you learn this week that you didn't know before? What did you learn from a co-worker? What progress did you make towards your goals? Here are some other topics to consider...Learned a new project methodology, deepened a core skill, started a Coursera course or other things related to your job role. You might also focus on personal skills like time management, peer mentorship, social skills, or company culture perspectives.*"
+  text: "*Keep in mind both professional and personal things here. Some options: *\n\n- *What did you learn this week that you didn't know before?*\n- *What did you learn from a co-worker?*\n- *What progress did you make towards your goals?*\n- *Learned a new project methodology?*\n- *Deepened a core skill*"
   title: "## Learning and Goals"
 objectives:
   path: "objectives"
